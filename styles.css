@@ -1,0 +1,26 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.email-card {
+    cursor: pointer;
+    transition: all 0.2s;
+    margin-bottom: 10px;
+}
+
+.email-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.email-snippet {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #6c757d;
+}
+
+.modal-body {
+    white-space: pre-wrap;
+    word-break: break-word;
+}

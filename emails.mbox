@@ -1,0 +1,13 @@
+From example@example.com Mon Jan 01 00:00:00 2023
+Subject: Sample Email 1
+From: Example User <example@example.com>
+Date: Mon, 01 Jan 2023 00:00:00 +0000
+
+This is a sample email body for testing purposes.
+
+From another@example.com Tue Jan 02 00:00:00 2023
+Subject: Sample Email 2
+From: Another User <another@example.com>
+Date: Tue, 02 Jan 2023 00:00:00 +0000
+
+This is another sample email with different content.
